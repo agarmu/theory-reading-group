@@ -4,7 +4,7 @@ We are fortunate to have [Prof. Kent Quanrud](https://kentquanrud.com/) as a fac
 
 ## Logistics
 
-We will likely meet once a week from the Week of June 9 to the Week of August 22; depending on interest, we will continue to meet during future semesters.
+We will likely meet once a week from the Week of June 9 to the Week of August 18; depending on interest, we will continue to meet during future semesters.
 Depending on what portion of attendees are on campus, we will adjust the format of our meeting; tentatively, we will have meetings be a hybrid between in-person
 and online.
 
