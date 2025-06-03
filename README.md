@@ -1,8 +1,10 @@
+# Home
+
 This is the webpage for the Summer 2025 Theory Reading Group at Purdue University. The purpose of this program is for a group of students to discuss topics in Theoretical CS (Algorithms, Computational Complexity, etc.) which are not covered in a typical undergraduate/first graduate course.
 
 We are fortunate to have [Prof. Kent Quanrud](https://kentquanrud.com/) as a faculty mentor for our group.
 
-# Logistics
+## Logistics
 We will likely meet once a week from the Week of June 9 to the Week of August 22; depending on interest, we will continue to meet during Future Semesters.
 
 We are currently considering following one of the following courses:
@@ -16,7 +18,7 @@ Any Purdue Students who are interested should fill out the following google form
 
 For any questions/concerns please email Mukul Agarwal at [agarw396@purdue.edu](mailto:agarw396@purdue.edu).
 
-# Meeting Schedule
+## Meeting Schedule
 
 | Date | Topic | Location |
 | ----- | ---- | -------- |
