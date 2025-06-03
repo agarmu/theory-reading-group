@@ -3,7 +3,10 @@ This is the webpage for the Summer 2025 Theory Reading Group at Purdue Universit
 We are fortunate to have [Prof. Kent Quanrud](https://kentquanrud.com/) as a faculty mentor for our group.
 
 ## Logistics
-We will likely meet once a week from the Week of June 9 to the Week of August 22; depending on interest, we will continue to meet during Future Semesters.
+
+We will likely meet once a week from the Week of June 9 to the Week of August 22; depending on interest, we will continue to meet during future semesters.
+Depending on what portion of attendees are on campus, we will adjust the format of our meeting; tentatively, we will have meetings be a hybrid between in-person
+and online.
 
 We are currently considering following one of the following courses:
 - [Anupam Gupta's **Advanced Algorithms, Spring 2023** (MIT 15-580)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15850-s23/www/oldindex.html)
