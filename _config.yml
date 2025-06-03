@@ -5,3 +5,5 @@ author:
   name: Mukul Agarwal
   email: "agarw396@purdue.edu"
   
+minima:
+  hide_site_feed_link: true
