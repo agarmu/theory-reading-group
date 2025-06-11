@@ -1,6 +1,4 @@
-This is the webpage for the Summer 2025 Theory Reading Group at Purdue University. The purpose of this program is for a group of students to discuss topics in Theoretical CS (Algorithms, Computational Complexity, etc.) which are not covered in a typical undergraduate/first graduate course.
-
-[Prof. Kent Quanrud](https://kentquanrud.com/) is also chipping in to help 
+This is the webpage for the Summer 2025 Theory Reading Group at Purdue University. The purpose of this group is for a group of students to discuss topics in Theoretical CS (Algorithms, Computational Complexity, etc.) which are not covered in a typical undergraduate/first graduate course. Though we are mostly student-run, [Prof. Kent Quanrud](https://kentquanrud.com/) is also helping out. 
 
 ## Logistics
 
