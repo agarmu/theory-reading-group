@@ -21,4 +21,4 @@ For any questions/concerns please email Mukul Agarwal at [agarw396@purdue.edu](m
 
 | Date | Topic | Location |
 | ----- | ---- | -------- |
-| Week of June 16 | Introduction, Other Topic TBD | TBD |
+| Jun 18, 2025 | Introduction, MSTs | Zoom |
