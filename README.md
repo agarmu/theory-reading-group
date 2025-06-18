@@ -21,4 +21,4 @@ For any questions/concerns please email Mukul Agarwal at [agarw396@purdue.edu](m
 
 | Date | Topic | Location |
 | ----- | ---- | -------- |
-| Jun 18, 2025, 2:00 PM EDT | Introduction, Minimum Spanning Trees <br> <br> **Speaker:* Aaron Boes | **Zoom:** [https://purdue-edu.zoom.us/j/93282199935](https://purdue-edu.zoom.us/j/93282199935) <br><br> **Meeting ID:** 932 8219 9935 (no password) |
+| Jun 18, 2025, 2:00 PM EDT | Introduction, Minimum Spanning Trees <br> <br> **Speaker:** Aaron Boes | **Zoom:** [https://purdue-edu.zoom.us/j/93282199935](https://purdue-edu.zoom.us/j/93282199935) <br><br> **Meeting ID:** 932 8219 9935 (no password) |
