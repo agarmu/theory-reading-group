@@ -6,7 +6,7 @@ We will meet once a week from the Week of June 16 to the Week of August 18; depe
 Depending on what portion of attendees are on campus, we will adjust the format of our meeting; tentatively, we will have meetings be a hybrid between in-person
 and online.
 
-We are currently considering following [Anupam Gupta's **Advanced Algorithms, Spring 2023** (CMU 15-580)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15850-s23/www/oldindex.html).
+We are currently following [Anupam Gupta's **Advanced Algorithms, Spring 2023** (CMU 15-580)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15850-s23/www/oldindex.html).
 
 Any Purdue Students who are interested should fill out the following google form: [https://forms.gle/qwQcFfziReXcGMJ89](https://forms.gle/qwQcFfziReXcGMJ89).
 
