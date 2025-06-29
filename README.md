@@ -16,6 +16,6 @@ Any Purdue Students who are interested should fill out the following google form
 
 | Date | Topic | Location |
 | ----- | ---- | -------- |
-| Jul 2, 2025, 2:00 PM EDT | Arborescences (**Speaker:** [Hongao Wang](https://phijack.github.io/)) | **In-Person**: DSAI 1004 (Tentative) <br> **Zoom:** [link](https://purdue-edu.zoom.us/j/92438874887) |
+| Jul 2, 2025, 2:00 PM EDT | Arborescences (**Speaker:** [Hongao Wang](https://phijack.github.io/)) | **In-Person**: DSAI 1004 (Tentative) <br> **Zoom:** [link](https://purdue-edu.zoom.us/j/96043000483) |
 | Jun 25, 2025, 2:00 PM EDT | Randomized MST algorithm (**Speaker:** Aaron Boes) <br> Arborescences (**Speaker:** [Hongao Wang](https://phijack.github.io/)) | **In-Person**: DSAI 1069 <br> **Zoom:** [link](https://purdue-edu.zoom.us/j/94691709382) |
 | Jun 18, 2025, 2:00 PM EDT | Introduction, Minimum Spanning Trees <br> **Speaker:** Aaron Boes | **In-Person**: DSAI 1004 <br> **Zoom:** [link](https://purdue-edu.zoom.us/j/93282199935) |
