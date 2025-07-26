@@ -16,6 +16,7 @@ Any Purdue Students who are interested should fill out the following google form
 
 | Date | Topic | Location |
 | ----- | ---- | -------- |
+| Jul 30, 2025, 2:00 PM EDT | Low-Diameter Decompositions and Low-Stretch Spanning Trees ([notes link](https://www.cs.cmu.edu/~15850/notes/lec5.pdf)) <br> **Speaker:** Nathan Vijitbenjaronk | **In-Person**: DSAI 1069 <br> **Zoom:** [link](https://purdue-edu.zoom.us/j/92438874887) |
 | Jul 23, 2025, 2:00 PM EDT | Shortest Path Trees ([notes link](https://www.cs.cmu.edu/~15850/notes/lec3.pdf)) <br> **Speaker:** Mukul Agarwal | **In-Person**: DSAI 1004 <br> **Zoom:** [link](https://purdue-edu.zoom.us/j/92438874887) |
 | Jul 16, 2025 | No meeting | |
 | Jul 9, 2025, 2:00 PM EDT | Arborescences ([notes link](https://www.cs.cmu.edu/~15850/notes/lec2.pdf)) <br> **Speaker:** [Hongao Wang](https://phijack.github.io/) | **In-Person**: DSAI 1004 <br> **Zoom:** [link](https://purdue-edu.zoom.us/j/92438874887) |
